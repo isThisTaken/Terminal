@@ -26,12 +26,5 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 [Oh My Zsh][zsh]
 ----------------
-```bash
-curl -L http://install.ohmyz.sh | sh
-```
 
-### Config Files
-
-### Plugins
-
-[zsh]: http://ohmyz.sh
+[zsh]: ./zsh
