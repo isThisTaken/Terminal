@@ -11,5 +11,4 @@ curl -L http://install.ohmyz.sh | sh
 
 ### Plugins
 
-
 [zsh]: http://ohmyz.sh
